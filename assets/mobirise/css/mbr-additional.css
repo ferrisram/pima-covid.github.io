@@ -722,6 +722,9 @@ section.lazy-placeholder:after {
 .cid-rXUalZNF9i .mbr-section-btn {
   text-align: left;
 }
+.cid-rXUalZNF9i P {
+  text-align: left;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #ffffff;
@@ -1728,7 +1731,7 @@ section.lazy-placeholder:after {
 .cid-rYfQS322Up {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #01546e;
+  background-color: #2c3436;
 }
 .cid-rYfQS322Up .counter-container {
   color: #767676;
@@ -1756,7 +1759,7 @@ section.lazy-placeholder:after {
   line-height: 40px;
   transition: all .2s;
   color: #ffffff;
-  background: #000000;
+  background: #0f7699;
   width: 40px;
   height: 40px;
   border-radius: 50%;
@@ -1765,8 +1768,8 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-rXUxtcb6IF {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   position: relative;
   background-color: #ffffff;
 }
