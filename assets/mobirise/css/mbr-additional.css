@@ -4,6 +4,13 @@
 
 
 
+p.ind {
+  text-indent: 30px;
+}
+
+p.ind2 {
+  text-indent: 60px;
+}
 
 
 body {
